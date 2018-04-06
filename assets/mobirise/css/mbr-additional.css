@@ -1444,3 +1444,15 @@ body {
   color: #ffda73;
   text-align: center;
 }
+.cid-qOsyWSMLdh {
+  background: #ffffff;
+}
+.cid-qOsyWSMLdh .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qOsyWSMLdh .image-block {
+    width: 100% !important;
+  }
+}
