@@ -589,8 +589,8 @@ a:hover {
   color: #b7b7b7;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  opacity: 0 !important;
 }
 #scrollToTop a {
   background: #ffc173;
