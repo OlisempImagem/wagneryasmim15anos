@@ -1445,11 +1445,12 @@ body {
   text-align: center;
 }
 .cid-qOsyWSMLdh {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background: #ffffff;
 }
 .cid-qOsyWSMLdh .image-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-qOsyWSMLdh .image-block {
